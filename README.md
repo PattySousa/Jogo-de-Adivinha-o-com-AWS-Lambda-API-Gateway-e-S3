@@ -61,4 +61,4 @@ https://www.linkedin.com/school/escola-da-nuvem/
 
 https://www.linkedin.com/feed/update/urn:li:activity:7316965068422758400/
 
-[https://www.linkedin.com/in/patricia--sousa/](https://medium.com/@patricia--sousa/jogo-de-adivinha%C3%A7%C3%A3o-com-aws-lambda-api-gateway-e-s3-782b4005c56c)
+https://medium.com/@patricia--sousa/jogo-de-adivinha%C3%A7%C3%A3o-com-aws-lambda-api-gateway-e-s3-782b4005c56c
